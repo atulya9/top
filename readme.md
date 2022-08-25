@@ -1,1 +1,1 @@
-# This is a repo for working on the Odin project
+# This is a repo to create the recipes website
